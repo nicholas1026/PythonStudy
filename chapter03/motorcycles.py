@@ -28,5 +28,5 @@ motorycycles.pop(0)
 print(motorycycles)
 
 motorycycles = ['honda','yamaha','suzuki']
-motorycycles.remove('yamaha')
+motorycycles.remove('yamaha') //remove()仅能删除第一个指定的值
 print(motorycycles)
